@@ -1,6 +1,6 @@
 # mern-crud4-practice
 
-Create a movie database fullstack application with the following:
+Create a new fullstack application with the following:
 
 ## Model:
 - phoneName
